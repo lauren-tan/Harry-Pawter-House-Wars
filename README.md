@@ -1,4 +1,4 @@
-# Harry-Pawter-House-Wars
+# Harry Pawter House Wars
 Server-client game with up to 4 clients (players)
 Demo video: https://www.youtube.com/watch?v=l9pJwWAs3sc
 
